@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+data/chroma/*
+!data/chroma/.gitkeep
+.venv/
+.DS_Store

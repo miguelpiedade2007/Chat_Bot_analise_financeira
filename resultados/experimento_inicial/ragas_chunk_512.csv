@@ -1,0 +1,43 @@
+chunk_size,user_input,response,faithfulness,answer_relevancy
+512,Como o caderno da CVM define day trade e qual a principal diferença para swing trade?,"No mercado de ações, o **day trade** é definido como uma operação de compra e venda de ações de uma mesma empresa realizada em um único dia na bolsa de valores [512_000010]. Também é classificada como day trade a operação de venda a descoberto de um ativo seguida da compra desse mesmo ativo no mesmo dia, visando obter lucro com a oscilação intra-diária de preço [512_000010].
+
+A principal diferença entre as duas modalidades reside no **prazo**:
+
+*   **Day trade:** As posições duram apenas um dia, sendo consideradas de curtíssimo prazo [512_000023].
+*   **Swing trade:** Caracteriza-se por posições de curto e médio prazo, com intervalos de dias ou semanas para a negociação de opções, contratos futuros ou ações [512_000023, 512_000024]. Diferente do day trade, o swing trade envolve obrigatoriamente a compra de um ativo em um dia e a venda em outro [512_000024].",1.0,0.8675558872950543
+512,O que é um BDR e como esse recibo se relaciona a valores mobiliários emitidos no exterior?,"Os BDRs (Brazilian Depositary Receipts), ou certificados de depósito de valores mobiliários, são valores mobiliários emitidos e negociados no Brasil que representam outro valor mobiliário negociado no exterior [512_000180].
+
+A relação entre o BDR e os valores mobiliários emitidos no exterior ocorre da seguinte forma:
+
+*   **Natureza do Investimento:** O BDR funciona como uma forma de investimento indireto nos ativos financeiros que ele representa [512_000180].
+*   **Lastro:** Eles podem ser lastreados em títulos representativos de dívida negociados no exterior ou em ações emitidas por emissores estrangeiros e negociadas no exterior [512_000180].
+*   **Custódia:** Os valores mobiliários que servem de lastro permanecem bloqueados em uma instituição custodiante no exterior durante a vigência do Programa de BDR no Brasil [512_000187].
+*   **Proporção:** Não é obrigatório que uma unidade de BDR represente exatamente uma unidade do valor mobiliário de lastro; essa relação exata é definida em cada programa [512_000187]. Por exemplo, um programa de BDR nível I da 3M Company definia a relação de 4 BDRs para cada ação da companhia [512_000187].
+
+*Este conteúdo possui caráter educativo e não constitui recomendação de investimento.*",0.8,0.8775362259964202
+512,Qual é a finalidade do Mecanismo de Ressarcimento de Prejuízos (MRP) e quais situações a publicação aborda?,"A finalidade exclusiva do Mecanismo de Ressarcimento de Prejuízos (MRP) é assegurar aos investidores a indenização e o ressarcimento de prejuízos decorrentes de ação ou omissão dos participantes da B3, ou de seus administradores, empregados ou prepostos [512_000287].
+
+As publicações abordam que esse ressarcimento se aplica a situações específicas relacionadas a:
+*   Intermediação de negociações realizadas na bolsa [512_000287], [512_000293];
+*   Serviços de custódia [512_000043], [512_000287], [512_000293].
+
+O MRP também pode ser acionado por investidores que sofrerem prejuízos causados por ação ou omissão de sua corretora ou de pessoas a ela ligadas, como os agentes autônomos de investimento [512_000043]. O requisito básico para o acionamento do mecanismo é a existência de um prejuízo [512_000293].
+
+*Isto é conteúdo educativo, não recomendação de investimento.*",0.8333333333333334,0.9071072019731182
+512,O que significa suitability e por que é importante verificar o perfil do investidor?,"No mercado financeiro e de capitais, o termo em inglês *suitability* refere-se ao processo de adequação do investimento ao perfil de cada investidor [512_000383].
+
+A verificação do perfil do investidor é importante pelos seguintes motivos:
+
+*   **Personalização do Plano:** Permite definir um plano de investimentos alinhado à tolerância ao risco e à capacidade financeira do indivíduo [512_000144].
+*   **Consideração de Diversidades:** O processo leva em conta que os investidores possuem diferentes conhecimentos, situações financeiras, objetivos (como aposentadoria, viagens, reserva de emergência ou compra de casa própria) e perfis de risco [512_000380].
+*   **Fatores Abrangentes:** O *suitability* considera também desejos, necessidades, aspectos comportamentais, culturais e o ambiente socioeconômico [512_000144].
+*   **Mitigação de Riscos:** Como o mesmo produto não é necessariamente indicado para qualquer investidor em qualquer situação, a adequação evita que escolhas inadequadas frustrem o alcance de um objetivo [512_000240].
+
+*Este conteúdo possui caráter educativo e não constitui recomendação de investimento.*",0.8571428571428571,0.909242576579333
+512,Quais cuidados o guia Investidor 60+ recomenda ao avaliar riscos e produtos complexos?,Não encontrei essa informação nos documentos disponíveis.,1.0,0.0
+512,"Segundo o material sobre day trade, como análise técnica e análise fundamentalista diferem?","A diferença entre as duas análises reside no foco do estudo e no objetivo da previsão:
+
+*   **Análise Técnica:** Busca estudar os movimentos do mercado através da análise gráfica para tentar prever a variação de preços futuros de ativos na Bolsa de Valores em curto, médio e longo prazos [512_000015]. Ela baseia-se no preço do ativo e no equilíbrio entre a oferta e a demanda para prever o cenário mais provável para contratos futuros, opções ou ações, sendo utilizada em modalidades como *day trade*, *swing trade* ou *position trade* [512_000017].
+*   **Análise Fundamentalista:** Foca no estudo dos fundamentos da empresa, analisando seus aspectos econômicos e financeiros [512_000017]. Esta abordagem serve de base para operações como *value investing*, *growth investing* e *buy and hold* [512_000031].
+
+*Este conteúdo possui caráter educativo e não constitui recomendação de investimento.*",0.8571428571428571,0.8115042433049712

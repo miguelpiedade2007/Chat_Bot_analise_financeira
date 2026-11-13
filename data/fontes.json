@@ -1,0 +1,27 @@
+[
+  {
+    "arquivo": "01_CVM_Day_Trade_2020.pdf", "titulo": "Caderno CVM 15: Day Trade",
+    "url": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+    "tipo": "caderno", "data": "2020", "categoria": "negociacao", "instituicao": "CVM"
+  },
+  {
+    "arquivo": "02_CVM_BDR_2020.pdf", "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+    "url": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+    "tipo": "caderno", "data": "2020", "categoria": "bdr", "instituicao": "CVM"
+  },
+  {
+    "arquivo": "03_CVM_MRP_2020.pdf", "titulo": "Caderno CVM 13: Mecanismo de Ressarcimento de Prejuízos",
+    "url": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-13.pdf/@@display-file/file",
+    "tipo": "caderno", "data": "2020", "categoria": "protecao", "instituicao": "CVM"
+  },
+  {
+    "arquivo": "04_CVM_Suitability_2022.pdf", "titulo": "Guia CVM: Suitability",
+    "url": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+    "tipo": "guia", "data": "2022", "categoria": "perfil", "instituicao": "CVM"
+  },
+  {
+    "arquivo": "05_CVM_Investidor_60_2026.pdf", "titulo": "CVM: Investidor 60+",
+    "url": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/investidor-60.pdf/@@display-file/file",
+    "tipo": "guia", "data": "2026", "categoria": "protecao", "instituicao": "CVM"
+  }
+]

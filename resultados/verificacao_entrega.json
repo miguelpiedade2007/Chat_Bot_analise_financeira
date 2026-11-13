@@ -1,0 +1,18 @@
+{
+  "documentos": 5,
+  "paginas_textuais": 152,
+  "linhas_ragas": 12,
+  "notebook_sem_erros": true,
+  "vencedor": {
+    "chunk_size": 512,
+    "faithfulness": 0.9237373737373739,
+    "answer_relevancy": 0.896429723735605
+  },
+  "sha256_documentos": {
+    "01_CVM_Day_Trade_2020.pdf": "f4f26f09c28477b211acd41b6488f0e17f15536218be2c9f33500c9282d66db3",
+    "02_CVM_BDR_2020.pdf": "01e4ab7b1fec9160cc47597979d03e7007eeb15dcd31afb4f9199adeba25b4ca",
+    "03_CVM_MRP_2020.pdf": "c6211157ff262496f50341d8a90b2828ec57ac6e0e6639de7e0d3f2e253a622c",
+    "04_CVM_Suitability_2022.pdf": "7c215e4db338cc382eea6a101198e9a678663800dee824fa057fbdbcc3a17389",
+    "05_CVM_Investidor_60_2026.pdf": "503b78078f30a2047856e4e40f609ec850640031ee43f8187473b711449d672e"
+  }
+}

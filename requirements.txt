@@ -1,0 +1,21 @@
+# Projeto desenvolvido para Python 3.11 (Colab/local)
+langchain-core>=0.3,<2
+langchain-ollama>=0.3,<2
+langchain-classic>=1,<2
+langchain-text-splitters>=0.3,<2
+chromadb>=0.5,<2
+ragas==0.3.9
+# 0.4.2 remove módulos que o RAGAS 0.3.9 ainda importa.
+langchain-community==0.4.1
+pypdf>=5,<7
+python-dotenv>=1,<2
+pydantic>=2,<3
+gradio>=5,<7
+pandas>=2,<3
+requests>=2.31,<3
+pytest>=8,<10
+tiktoken>=0.7,<1
+nbformat>=5,<6
+nbclient>=0.10,<1
+ipykernel>=6,<8
+# Opcional (reranking): pip install -r requirements-rerank.txt

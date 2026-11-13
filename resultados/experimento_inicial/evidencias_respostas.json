@@ -1,0 +1,775 @@
+{
+  "criado_utc": "2026-10-09T12:15:57.542926+00:00",
+  "modelo_chat": "gemma4:31b",
+  "modelo_embedding": "nomic-embed-text",
+  "dados": [
+    {
+      "chunk_size": 256,
+      "pergunta": "Como o caderno da CVM define day trade e qual a principal diferença para swing trade?",
+      "resposta": "Com base nos documentos fornecidos:\n\n*   **Day trade:** É definido como uma atividade onde as posições duram apenas um dia, caracterizando-se por um curtíssimo prazo [256_000040].\n*   **Diferença para o swing trade:** A principal diferença reside no prazo [256_000040]. Enquanto o day trade ocorre em um único dia, o swing trade caracteriza-se por posições de curto e médio prazo, com intervalos de tempo que podem variar entre dias ou semanas para a negociação de opções, contratos futuros ou ações [256_000041].\n\n*Este conteúdo é educativo e não constitui recomendação de investimento.*",
+      "fontes": [
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 35,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000204"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 10,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000040"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 10,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000041"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 57,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000316"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 3,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000007"
+        }
+      ],
+      "contextos": [
+        "de day trading. O artigo foi realizado por Fernando Cha -\ngue e Bruno Giovanetti e foi intitulado de “É possível vi-\nver de day trading?”. \nA CVM disponibilizou uma base completa da atividade \nno período de 2012 a 2017 de todos os day traders que são",
+        "as seguintes características: rentabilidade, liquidez, pra -\nzo e risco.\nEm relação ao day trade, o swing trade se diferencia prin-\ncipalmente em relação ao prazo. Enquanto que no day \ntrade as posições duram apenas um dia (curtíssimo pra -",
+        "zo), o swing trade é caracterizado por posições de curto e \nmédio prazo, onde os trades podem ter um intervalo de \ntempo de dias ou até semanas para negociar ações, con -\ntratos futuros ou opções. Dessa forma, o swing trade en -",
+        "15\nDAY TRADE\n15\nDAY TRADE\nwww.cvm.gov.br\nwww.investidor.gov.br\ncursos.cvm.gov.br\npensologoinvisto.cvm.gov.br\nCVMEducacional\nCVMEducacional\nCVMEducacional\nCVMEducacional\ncompany/CVM",
+        "54p.  (Cadernos CVM, 15)\n \n1.Day trade. 2. Mercado à vista. 3. Mercado de derivativos. 4. Custos. 5. Gerenciamento de risco. 6.    Com-\nportamento dos investidores. 7. Robôs de investimento. 8. Ofertas RLP. 9. Educação Financeira. I. Comissão"
+      ]
+    },
+    {
+      "chunk_size": 256,
+      "pergunta": "O que é um BDR e como esse recibo se relaciona a valores mobiliários emitidos no exterior?",
+      "resposta": "Os BDRs (Brazilian Depositary Receipts), ou certificados de depósito de valores mobiliários, são valores mobiliários emitidos e negociados no Brasil que representam outro valor mobiliário negociado no exterior [256_000330].\n\nA relação entre o BDR e os ativos estrangeiros ocorre da seguinte forma:\n\n*   **Representação e Lastro:** O BDR representa um valor mobiliário negociado no exterior [256_000330], sendo emitido com base em valores mobiliários que ficam custodiados no exterior [256_000346].\n*   **Emissores:** No caso de programas de BDR nível I (patrocinados ou não), os emissores dos valores mobiliários que servem de lastro no exterior são fundos e empresas estrangeiras [256_000491].\n*   **Interesses do Titular:** Os direitos dos valores mobiliários que servem de lastro aos BDRs devem ser exercidos considerando os interesses dos titulares dos BDRs [256_000462].\n\n*Este conteúdo possui caráter educativo e não constitui recomendação de investimento.*",
+      "fontes": [
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 36,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "256_000462"
+        },
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 45,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "256_000504"
+        },
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 43,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "256_000491"
+        },
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 7,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "256_000330"
+        },
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 10,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "256_000346"
+        }
+      ],
+      "contextos": [
+        "titular dos valores mobiliários que sirvam de lastro aos BDR devem sempre ser exerci -\ndos tendo em vista os interesses dos titulares de BDRs.",
+        "cado em que o BDR é negociado, notificando a decisão \ncom antecedência. De forma geral, quando o programa \nde BDR é cancelado, um dos seguintes procedimentos \npode ser facultado ao investidor:\n• Venda dos valores mobiliários no exterior, e",
+        "42\nOs emissores, no exterior, de valores mobiliários que \nservem de lastro a programas de BDR nível I, patroci -\nnados ou não, são empresas e fundos estrangeiros (a \nexceção, já citada no texto, são os casos de emissores",
+        "6\n1\nO que são BDRs\nOs certificados de depósito de valores mobiliários, ou \nBDRs, Brazilian Depositary Receipts , são valores mobili -\nários emitidos e negociados no Brasil que representam \noutro valor mobiliário negociado no exterior. São, por -",
+        "depósito, com base nos valores mobiliários custodiados no exterior."
+      ]
+    },
+    {
+      "chunk_size": 256,
+      "pergunta": "Qual é a finalidade do Mecanismo de Ressarcimento de Prejuízos (MRP) e quais situações a publicação aborda?",
+      "resposta": "A finalidade exclusiva do Mecanismo de Ressarcimento de Prejuízos (MRP) é assegurar aos investidores o ressarcimento de prejuízos [256_000533], servindo como um instrumento de indenização [256_000077].\n\nQuanto às situações abordadas, os documentos mencionam que:\n* O MRP protege os investidores em situações específicas, seguindo regras e procedimentos estabelecidos [256_000530].\n* O ressarcimento pode ser solicitado em relação a operações realizadas em bolsa ou nos serviços de custódia [256_000077].\n* Existem hipóteses previstas para o ressarcimento, e casos que não se enquadrem nelas não seriam contemplados pelo mecanismo [256_000786].\n\n*Este é um conteúdo educativo e não constitui recomendação de investimento.*",
+      "fontes": [
+        {
+          "arquivo": "03_CVM_MRP_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-13.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 13: Mecanismo de Ressarcimento de Prejuízos",
+          "pagina": 8,
+          "tipo": "caderno",
+          "categoria": "protecao",
+          "data": "2020",
+          "chunk_id": "256_000536"
+        },
+        {
+          "arquivo": "03_CVM_MRP_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-13.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 13: Mecanismo de Ressarcimento de Prejuízos",
+          "pagina": 8,
+          "tipo": "caderno",
+          "categoria": "protecao",
+          "data": "2020",
+          "chunk_id": "256_000533"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 16,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000077"
+        },
+        {
+          "arquivo": "03_CVM_MRP_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-13.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 13: Mecanismo de Ressarcimento de Prejuízos",
+          "pagina": 5,
+          "tipo": "caderno",
+          "categoria": "protecao",
+          "data": "2020",
+          "chunk_id": "256_000530"
+        },
+        {
+          "arquivo": "04_CVM_Suitability_2022.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+          "titulo": "Guia CVM: Suitability",
+          "pagina": 11,
+          "tipo": "guia",
+          "categoria": "perfil",
+          "data": "2022",
+          "chunk_id": "256_000786"
+        }
+      ],
+      "contextos": [
+        "bolsa deve manter um mecanismo de ressarcimento de prejuízos (MRP), com a finalidade \nexclusiva de assegurar aos investidores o ressarcimento de prejuízos decorrentes da ação",
+        "7\n2\nO Mecanismo de  \nRessarcimento de \nPrejuízos - MRP\nO Mecanismo de Ressarcimento de Prejuízos - MRP é \num instrumento de indenização que tem a finalidade \nexclusiva de assegurar aos investidores o ressarcimento",
+        "ciações realizadas em bolsa ou nos serviços de custódia, \npodem pedir ressarcimento ao Mecanismo de Ressarci -\nmento de Prejuízos, o MRP.  \nO MRP é um instrumento de indenização, previsto  no \nart. 77º da ICVM 461 , que tem a finalidade exclusiva de",
+        "de prejuízos (MRP), que protege os investidores em \nsituações específicas, e conforme as regras e os \nprocedimentos estabelecidos.",
+        "considerando que o caso não se enquadraria nas hipóteses de ressarcimento \nprevistas para o MRP ."
+      ]
+    },
+    {
+      "chunk_size": 256,
+      "pergunta": "O que significa suitability e por que é importante verificar o perfil do investidor?",
+      "resposta": "O *suitability* (termo utilizado para a análise de adequação do investimento ao perfil do investidor) baseia-se no fato de que os investidores possuem diferenças em relação ao seu conhecimento, situação financeira, perfil de risco e objetivos [256_000704].\n\nA verificação do perfil do investidor é importante pelos seguintes motivos:\n\n*   **Definição de Planejamento:** Permite definir um plano de investimentos que esteja alinhado à tolerância ao risco e à capacidade financeira do indivíduo [256_000266].\n*   **Alinhamento de Necessidades:** O processo leva em conta os desejos e necessidades do investidor [256_000266], exigindo que as respostas ao questionário de avaliação de perfil estejam alinhadas aos seus objetivos [256_000790].\n*   **Escolha de Métodos:** A definição clara dos objetivos é necessária para que o investidor verifique quais métodos de investimento se adequam ao seu perfil [256_000039].\n\n*Isto é conteúdo educativo, não recomendação de investimento.*",
+      "fontes": [
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 45,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000266"
+        },
+        {
+          "arquivo": "04_CVM_Suitability_2022.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+          "titulo": "Guia CVM: Suitability",
+          "pagina": 12,
+          "tipo": "guia",
+          "categoria": "perfil",
+          "data": "2022",
+          "chunk_id": "256_000790"
+        },
+        {
+          "arquivo": "04_CVM_Suitability_2022.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+          "titulo": "Guia CVM: Suitability",
+          "pagina": 5,
+          "tipo": "guia",
+          "categoria": "perfil",
+          "data": "2022",
+          "chunk_id": "256_000704"
+        },
+        {
+          "arquivo": "03_CVM_MRP_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-13.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 13: Mecanismo de Ressarcimento de Prejuízos",
+          "pagina": 18,
+          "tipo": "caderno",
+          "categoria": "protecao",
+          "data": "2020",
+          "chunk_id": "256_000597"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 10,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000039"
+        }
+      ],
+      "contextos": [
+        "A análise do perfil do investidor é importante para de -\nfinir um plano de investimentos de acordo com sua ca -\npacidade financeira e tolerância ao risco. Além disso, o \nsuitability leva em consideração as necessidades e desejos",
+        "seu nome desde que verifique, previamente, a adequação com o seu perfil de \ninvestimento. Para tanto, a sua resposta ao questionário de avaliação de perfil \nde investimento deve estar devidamente alinhada com (a) seus objetivos de",
+        "6\n1. O que é Suitability? \nOs investidores são diferentes em termos de objetivos, situação financeira, perfil \nde risco e conhecimento. Enquanto uns investem para a aposentadoria, outros es-",
+        "riscos envolvidos, ou que claramente não estejam ade -\nquadas para os seus objetivos e perfil de investimento.\n4.3. SUITABILITY",
+        "todos para os mais diversos perfis de investidores. Os \ninvestidores precisam definir claramente quais são seus \nobjetivos para verificar quais métodos se adequam ao seu \nperfil. De modo geral, qualquer tipo de investimento tem"
+      ]
+    },
+    {
+      "chunk_size": 256,
+      "pergunta": "Quais cuidados o guia Investidor 60+ recomenda ao avaliar riscos e produtos complexos?",
+      "resposta": "De acordo com o guia Investidor 60+, se você não compreendeu plenamente as possibilidades de retorno e os riscos de um produto, é provável que ele não seja adequado para você [256_000816], [256_000827]. Além disso, produtos que possuam risco elevado ou sejam mais complexos exigem um maior investimento do investidor [256_000816], [256_000827].",
+      "fontes": [
+        {
+          "arquivo": "05_CVM_Investidor_60_2026.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/investidor-60.pdf/@@display-file/file",
+          "titulo": "CVM: Investidor 60+",
+          "pagina": 2,
+          "tipo": "guia",
+          "categoria": "protecao",
+          "data": "2026",
+          "chunk_id": "256_000816"
+        },
+        {
+          "arquivo": "05_CVM_Investidor_60_2026.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/investidor-60.pdf/@@display-file/file",
+          "titulo": "CVM: Investidor 60+",
+          "pagina": 3,
+          "tipo": "guia",
+          "categoria": "protecao",
+          "data": "2026",
+          "chunk_id": "256_000827"
+        },
+        {
+          "arquivo": "04_CVM_Suitability_2022.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+          "titulo": "Guia CVM: Suitability",
+          "pagina": 7,
+          "tipo": "guia",
+          "categoria": "perfil",
+          "data": "2022",
+          "chunk_id": "256_000731"
+        },
+        {
+          "arquivo": "04_CVM_Suitability_2022.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+          "titulo": "Guia CVM: Suitability",
+          "pagina": 5,
+          "tipo": "guia",
+          "categoria": "perfil",
+          "data": "2022",
+          "chunk_id": "256_000707"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 29,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000165"
+        }
+      ],
+      "contextos": [
+        "possibilidades de retorno e os riscos, o produto provavelmente não é\npara você ou você não o compreendeu plenamente. Produtos mais\ncomplexos ou de risco elevado, exigem um maior investimento do seu",
+        "possibilidades de retorno e os riscos, o produto provavelmente não é\npara você ou você não o compreendeu plenamente. Produtos mais\ncomplexos ou de risco elevado, exigem um maior investimento do seu",
+        "produto. Caso o investidor, após tomar conhecimento dos riscos, ainda entender \ncomandar a operação, terá que firmar declaração junto ao intermediário de que \nestá ciente dos riscos daquele produto não adequado ao seu perfil e que, mesmo",
+        "entre os investidores em relação ao conhecimento necessário para compreender \ntais riscos.  \nEssa diversidade de objetivos e perfis é relevante e precisa ser considerada no \nprocesso de tomada de decisão de investimentos, porque o mesmo produto, ser -",
+        "Os investidores têm que tomar cuidado com o excesso \nde confiança pois podem negligenciar o gerenciamento \nde riscos, ficando mais suscetíveis a grandes prejuízos. \nComo exemplo deste comportamento superconfiante,"
+      ]
+    },
+    {
+      "chunk_size": 256,
+      "pergunta": "Segundo o material sobre day trade, como análise técnica e análise fundamentalista diferem?",
+      "resposta": "Com base nos documentos fornecidos, a diferença entre as duas análises é a seguinte:\n\n*   **Análise Fundamentalista:** Foca no estudo dos fundamentos da empresa, especificamente em seus aspectos econômicos e financeiros [256_000031].\n*   **Análise Técnica:** O material recomenda que, antes de iniciar a prática de *day trading* (operações onde as posições duram apenas um dia), o investidor realize muito estudo sobre as teorias de análise técnica, bem como a análise de seus pontos fracos e fortes [256_000027, 256_000040].\n\nVale ressaltar que as operações de *swing trade* podem utilizar tanto a análise técnica quanto a fundamentalista [256_000043].\n\n*Este conteúdo é educativo e não constitui recomendação de investimento.*",
+      "fontes": [
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 8,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000027"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 10,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000043"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 9,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000031"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 49,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000288"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 10,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "256_000040"
+        }
+      ],
+      "contextos": [
+        "Antes de iniciar a prática de day trading , recomenda-se \nmuito estudo sobre as teorias de análise técnica, assim \ncomo análise dos pontos fortes e fracos.\n1.1. Análise técnica X Análise fundamentalista",
+        "a tendência de um ativo e, em seguida, definir um objeti-\nvo ou preço alvo a ser atingido.\nAs operações de swing trade podem seguir tanto a análise \ntécnica quanto a análise fundamentalista. O investidor",
+        "trade ou position trade. Estes dois últimos conceitos serão \nabordados no item 1.2.\nPor outro lado, a análise fundamentalista foca em estu -\ndar os aspectos financeiros e econômicos das empresas, \nou seja, os fundamentos da empresa através de um pro -",
+        "de interesse pelo day trade veio junto com o crescimento \ndo número de pessoas físicas na bolsa, conforme pode ser \nvisto nos gráficos abaixo:",
+        "as seguintes características: rentabilidade, liquidez, pra -\nzo e risco.\nEm relação ao day trade, o swing trade se diferencia prin-\ncipalmente em relação ao prazo. Enquanto que no day \ntrade as posições duram apenas um dia (curtíssimo pra -"
+      ]
+    },
+    {
+      "chunk_size": 512,
+      "pergunta": "Como o caderno da CVM define day trade e qual a principal diferença para swing trade?",
+      "resposta": "No mercado de ações, o **day trade** é definido como uma operação de compra e venda de ações de uma mesma empresa realizada em um único dia na bolsa de valores [512_000010]. Também é classificada como day trade a operação de venda a descoberto de um ativo seguida da compra desse mesmo ativo no mesmo dia, visando obter lucro com a oscilação intra-diária de preço [512_000010].\n\nA principal diferença entre as duas modalidades reside no **prazo**:\n\n*   **Day trade:** As posições duram apenas um dia, sendo consideradas de curtíssimo prazo [512_000023].\n*   **Swing trade:** Caracteriza-se por posições de curto e médio prazo, com intervalos de dias ou semanas para a negociação de opções, contratos futuros ou ações [512_000023, 512_000024]. Diferente do day trade, o swing trade envolve obrigatoriamente a compra de um ativo em um dia e a venda em outro [512_000024].",
+      "fontes": [
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 35,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000111"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 10,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000023"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 7,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000010"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 57,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000172"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 10,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000024"
+        }
+      ],
+      "contextos": [
+        "34\n6\nPesquisa FGV: \nÉ possível viver de \ndaytrading?\n6.1 Contratos futuros de mini índice e mini dólar\nPesquisadores da FGV publicaram em março de 2019 um \nestudo mediante convênio com a CVM sobre a atividade \nde day trading. O artigo foi realizado por Fernando Cha -\ngue e Bruno Giovanetti e foi intitulado de “É possível vi-\nver de day trading?”. \nA CVM disponibilizou uma base completa da atividade \nno período de 2012 a 2017 de todos os day traders que são",
+        "perfil. De modo geral, qualquer tipo de investimento tem \nas seguintes características: rentabilidade, liquidez, pra -\nzo e risco.\nEm relação ao day trade, o swing trade se diferencia prin-\ncipalmente em relação ao prazo. Enquanto que no day \ntrade as posições duram apenas um dia (curtíssimo pra -\nzo), o swing trade é caracterizado por posições de curto e \nmédio prazo, onde os trades podem ter um intervalo de \ntempo de dias ou até semanas para negociar ações, con -",
+        "6\n1\nO que é day trade e \ncomo funciona esta \nforma de negociação\nNo mercado de ações, o day trade é uma operação de com-\npra e venda de ações de uma mesma empresa realizada \nem um único dia na bolsa de valores. Também é consi -\nderado day trade  uma operação de venda a descoberto   \nde um ativo e a posterior compra deste mesmo ativo no \nmesmo dia. O objetivo do investidor é obter lucro com \na oscilação intra-diária de preço de um ativo financeiro, \nou seja, o lucro é proveniente da venda do ativo por um",
+        "15\nDAY TRADE\n15\nDAY TRADE\nwww.cvm.gov.br\nwww.investidor.gov.br\ncursos.cvm.gov.br\npensologoinvisto.cvm.gov.br\nCVMEducacional\nCVMEducacional\nCVMEducacional\nCVMEducacional\ncompany/CVM",
+        "tempo de dias ou até semanas para negociar ações, con -\ntratos futuros ou opções. Dessa forma, o swing trade en -\nvolve necessariamente a compra de um ativo em um dia \ne a venda em outro. Como no swing trade se busca seguir \nas tendências dos mercados para aproveitar as variações \nde preços no curto prazo, o investidor tem que identificar \na tendência de um ativo e, em seguida, definir um objeti-\nvo ou preço alvo a ser atingido.\nAs operações de swing trade podem seguir tanto a análise"
+      ]
+    },
+    {
+      "chunk_size": 512,
+      "pergunta": "O que é um BDR e como esse recibo se relaciona a valores mobiliários emitidos no exterior?",
+      "resposta": "Os BDRs (Brazilian Depositary Receipts), ou certificados de depósito de valores mobiliários, são valores mobiliários emitidos e negociados no Brasil que representam outro valor mobiliário negociado no exterior [512_000180].\n\nA relação entre o BDR e os valores mobiliários emitidos no exterior ocorre da seguinte forma:\n\n*   **Natureza do Investimento:** O BDR funciona como uma forma de investimento indireto nos ativos financeiros que ele representa [512_000180].\n*   **Lastro:** Eles podem ser lastreados em títulos representativos de dívida negociados no exterior ou em ações emitidas por emissores estrangeiros e negociadas no exterior [512_000180].\n*   **Custódia:** Os valores mobiliários que servem de lastro permanecem bloqueados em uma instituição custodiante no exterior durante a vigência do Programa de BDR no Brasil [512_000187].\n*   **Proporção:** Não é obrigatório que uma unidade de BDR represente exatamente uma unidade do valor mobiliário de lastro; essa relação exata é definida em cada programa [512_000187]. Por exemplo, um programa de BDR nível I da 3M Company definia a relação de 4 BDRs para cada ação da companhia [512_000187].\n\n*Este conteúdo possui caráter educativo e não constitui recomendação de investimento.*",
+      "fontes": [
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 7,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "512_000180"
+        },
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 9,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "512_000187"
+        },
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 36,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "512_000247"
+        },
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 17,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "512_000201"
+        },
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 45,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "512_000272"
+        }
+      ],
+      "contextos": [
+        "6\n1\nO que são BDRs\nOs certificados de depósito de valores mobiliários, ou \nBDRs, Brazilian Depositary Receipts , são valores mobili -\nários emitidos e negociados no Brasil que representam \noutro valor mobiliário negociado no exterior. São, por -\ntanto, uma forma de investimento indireto nos ativos \nfinanceiros por eles representados.\nOs BDRs podem ser lastreados em: ações negociadas \nno exterior emitidas por emissores estrangeiros; títulos \nrepresentativos de dívida negociados no exterior e emi-",
+        "em instituição custodiante no exterior, onde permane -\ncem bloqueados enquanto durar o Programa de BDR no \nBrasil. \nNão necessariamente uma unidade do BDR representa exata-\nmente uma unidade do valor mobiliário lastro. A relação exata \ndeve estar estabelecida em cada programa. Como exemplo, o pro-\ngrama de BDR nível I não patrocinado lastreado em ações da 3M \nCompany, em vigor na data de lançamento deste material, define \na relação de 4 BDRs por ação da companhia.\nCuriosidade",
+        "gramas de emissão dos BDRs. \nQuando for o caso, as definições sobre o exercício de \ndireitos serão detalhadas em cada programa de BDR re-\ngistrado no Brasil e podem envolver, entre outros:\nO Crowdfunding\nde Investimento\nComo regra geral, os direitos que couberem à instituição depositária na qualidade de \ntitular dos valores mobiliários que sirvam de lastro aos BDR devem sempre ser exerci -\ndos tendo em vista os interesses dos titulares de BDRs.",
+        "res, um ambiente de mercado estrangeiro classificado \ncomo “mercado reconhecido” no regulamento de en -\ntidade administradora de mercado de valores mobili -\nários aprovado pela CVM; e ii) o emissor dos valores \nmobiliários que servem de lastro aos BDRs esteja su -\njeito à supervisão por parte da entidade reguladora do \nmercado de capitais do mercado de maior volume de \nnegociação.\nOs intermediários somente poderão aceitar ordens para \nnegociação de BDRs nível I quando comprovada as con-",
+        "• Venda dos valores mobiliários no exterior, e \nrecebimento do resultado da venda pelo investidor no \nBrasil, em moeda local; \n• Transferência dos valores mobiliários no exte -\nrior para a conta de custódia, também no exterior, a ser \nindicada pelo investidor à instituição depositária; \n• Ou ainda outro procedimento, de acordo com \na situação específica que determinou o cancelamento \ndo registro do Programa, sujeito à aprovação prévia da \nentidade administradora de mercado em que o BDR é \nnegociado."
+      ]
+    },
+    {
+      "chunk_size": 512,
+      "pergunta": "Qual é a finalidade do Mecanismo de Ressarcimento de Prejuízos (MRP) e quais situações a publicação aborda?",
+      "resposta": "A finalidade exclusiva do Mecanismo de Ressarcimento de Prejuízos (MRP) é assegurar aos investidores a indenização e o ressarcimento de prejuízos decorrentes de ação ou omissão dos participantes da B3, ou de seus administradores, empregados ou prepostos [512_000287].\n\nAs publicações abordam que esse ressarcimento se aplica a situações específicas relacionadas a:\n*   Intermediação de negociações realizadas na bolsa [512_000287], [512_000293];\n*   Serviços de custódia [512_000043], [512_000287], [512_000293].\n\nO MRP também pode ser acionado por investidores que sofrerem prejuízos causados por ação ou omissão de sua corretora ou de pessoas a ela ligadas, como os agentes autônomos de investimento [512_000043]. O requisito básico para o acionamento do mecanismo é a existência de um prejuízo [512_000293].\n\n*Isto é conteúdo educativo, não recomendação de investimento.*",
+      "fontes": [
+        {
+          "arquivo": "03_CVM_MRP_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-13.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 13: Mecanismo de Ressarcimento de Prejuízos",
+          "pagina": 5,
+          "tipo": "caderno",
+          "categoria": "protecao",
+          "data": "2020",
+          "chunk_id": "512_000285"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 16,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000043"
+        },
+        {
+          "arquivo": "03_CVM_MRP_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-13.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 13: Mecanismo de Ressarcimento de Prejuízos",
+          "pagina": 8,
+          "tipo": "caderno",
+          "categoria": "protecao",
+          "data": "2020",
+          "chunk_id": "512_000287"
+        },
+        {
+          "arquivo": "03_CVM_MRP_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-13.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 13: Mecanismo de Ressarcimento de Prejuízos",
+          "pagina": 10,
+          "tipo": "caderno",
+          "categoria": "protecao",
+          "data": "2020",
+          "chunk_id": "512_000293"
+        },
+        {
+          "arquivo": "04_CVM_Suitability_2022.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+          "titulo": "Guia CVM: Suitability",
+          "pagina": 11,
+          "tipo": "guia",
+          "categoria": "perfil",
+          "data": "2022",
+          "chunk_id": "512_000422"
+        }
+      ],
+      "contextos": [
+        "bolsa devem manter um mecanismo de ressarcimento \nde prejuízos (MRP), que protege os investidores em \nsituações específicas, e conforme as regras e os \nprocedimentos estabelecidos.",
+        "15\n1.6. Mecanismo de Ressarcimento de Prejuízos \n(MRP)\nInvestidores que tiverem prejuízos decorrentes da ação \nou omissão da sua corretora, ou de pessoas a ela ligadas, \ncomo os agentes autônomos de investimento, em nego -\nciações realizadas em bolsa ou nos serviços de custódia, \npodem pedir ressarcimento ao Mecanismo de Ressarci -\nmento de Prejuízos, o MRP.  \nO MRP é um instrumento de indenização, previsto  no \nart. 77º da ICVM 461 , que tem a finalidade exclusiva de",
+        "7\n2\nO Mecanismo de  \nRessarcimento de \nPrejuízos - MRP\nO Mecanismo de Ressarcimento de Prejuízos - MRP é \num instrumento de indenização que tem a finalidade \nexclusiva de assegurar aos investidores o ressarcimento \nde prejuízos decorrentes da ação ou omissão dos parti -\ncipantes da B3, ou de seus administradores, emprega-\ndos ou prepostos, em relação à intermediação de nego -\nciações realizados na bolsa ou aos serviços de custódia.",
+        "9\nOs requisitos de acesso ao MRP estão claramente dispostos no seu objetivo de assegurar \naos investidores o ressarcimento de prejuízos decorrentes da ação ou omissão dos partici-\npantes da B3, ou de seus administradores, empregados ou prepostos, em relação à inter -\nmediação de negociações realizadas na bolsa, ou aos serviços de custódia.\nO requisito básico para que se possa acionar o MRP é \na existência de um prejuízo, sem o qual não há que se \nfalar em ressarcimento. No entanto, cabe aqui esclare -",
+        "considerando que o caso não se enquadraria nas hipóteses de ressarcimento \nprevistas para o MRP ."
+      ]
+    },
+    {
+      "chunk_size": 512,
+      "pergunta": "O que significa suitability e por que é importante verificar o perfil do investidor?",
+      "resposta": "No mercado financeiro e de capitais, o termo em inglês *suitability* refere-se ao processo de adequação do investimento ao perfil de cada investidor [512_000383].\n\nA verificação do perfil do investidor é importante pelos seguintes motivos:\n\n*   **Personalização do Plano:** Permite definir um plano de investimentos alinhado à tolerância ao risco e à capacidade financeira do indivíduo [512_000144].\n*   **Consideração de Diversidades:** O processo leva em conta que os investidores possuem diferentes conhecimentos, situações financeiras, objetivos (como aposentadoria, viagens, reserva de emergência ou compra de casa própria) e perfis de risco [512_000380].\n*   **Fatores Abrangentes:** O *suitability* considera também desejos, necessidades, aspectos comportamentais, culturais e o ambiente socioeconômico [512_000144].\n*   **Mitigação de Riscos:** Como o mesmo produto não é necessariamente indicado para qualquer investidor em qualquer situação, a adequação evita que escolhas inadequadas frustrem o alcance de um objetivo [512_000240].\n\n*Este conteúdo possui caráter educativo e não constitui recomendação de investimento.*",
+      "fontes": [
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 34,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "512_000240"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 45,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000144"
+        },
+        {
+          "arquivo": "04_CVM_Suitability_2022.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+          "titulo": "Guia CVM: Suitability",
+          "pagina": 5,
+          "tipo": "guia",
+          "categoria": "perfil",
+          "data": "2022",
+          "chunk_id": "512_000380"
+        },
+        {
+          "arquivo": "03_CVM_MRP_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-13.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 13: Mecanismo de Ressarcimento de Prejuízos",
+          "pagina": 18,
+          "tipo": "caderno",
+          "categoria": "protecao",
+          "data": "2020",
+          "chunk_id": "512_000321"
+        },
+        {
+          "arquivo": "04_CVM_Suitability_2022.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+          "titulo": "Guia CVM: Suitability",
+          "pagina": 5,
+          "tipo": "guia",
+          "categoria": "perfil",
+          "data": "2022",
+          "chunk_id": "512_000383"
+        }
+      ],
+      "contextos": [
+        "33\n6 Suitability\nOs investidores são diferentes em termos de objetivos \ne perfil risco. Essa diversidade é relevante e precisa ser \nconsiderada no processo de tomada de decisão de in -\nvestimentos, porque o mesmo produto não necessaria-\nmente será o mais indicado a qualquer investidor em \nqualquer situação. É importante que o investimento \nseja o mais adequado ao objetivo e ao perfil de risco de \ncada investidor, pois uma escolha inadequada, além de \npotencialmente frustrar o alcance de um objetivo de",
+        "A análise do perfil do investidor é importante para de -\nfinir um plano de investimentos de acordo com sua ca -\npacidade financeira e tolerância ao risco. Além disso, o \nsuitability leva em consideração as necessidades e desejos \ndas pessoas, assim como, aspectos comportamentais, cul-\nturais e ambiente socioeconômico.\nAssim, ter clareza em relação ao seu perfil de investidor \nlhe dará mais segurança para construir um plano de",
+        "6\n1. O que é Suitability? \nOs investidores são diferentes em termos de objetivos, situação financeira, perfil \nde risco e conhecimento. Enquanto uns investem para a aposentadoria, outros es-\ntão programando uma viagem, construindo a reserva para emergências ou plane-\njando a compra da casa própria. Determinado valor pode representar muito para \num investidor em relação ao seu patrimônio total, e pouco para outros. Alguns \ninvestidores são mais arrojados e aceitam tomar mais risco na expectativa de con-",
+        "pouca ou má qualidade de informação com relação aos \nriscos envolvidos, ou que claramente não estejam ade -\nquadas para os seus objetivos e perfil de investimento.\n4.3. SUITABILITY",
+        "objetivos, situação financeira e conhecimento passarão a ser referenciados, daqui \nem diante, de forma mais abrangente, apenas como perfil do investidor. No merca-\ndo financeiro e de capitais, esse processo de adequação do investimento ao perfil \nde cada investidor é conhecido pelo termo em inglês suitability.  \nDada a relevância do tema, e tendo em vista a proteção dos investidores, a CVM \neditou, em 13 de novembro de 2013, a Instrução CVM nº 539, posteriormente"
+      ]
+    },
+    {
+      "chunk_size": 512,
+      "pergunta": "Quais cuidados o guia Investidor 60+ recomenda ao avaliar riscos e produtos complexos?",
+      "resposta": "Não encontrei essa informação nos documentos disponíveis.",
+      "fontes": [
+        {
+          "arquivo": "04_CVM_Suitability_2022.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+          "titulo": "Guia CVM: Suitability",
+          "pagina": 5,
+          "tipo": "guia",
+          "categoria": "perfil",
+          "data": "2022",
+          "chunk_id": "512_000381"
+        },
+        {
+          "arquivo": "02_CVM_BDR_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-14.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 14: BDR - Brazilian Depositary Receipts",
+          "pagina": 34,
+          "tipo": "caderno",
+          "categoria": "bdr",
+          "data": "2020",
+          "chunk_id": "512_000240"
+        },
+        {
+          "arquivo": "04_CVM_Suitability_2022.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+          "titulo": "Guia CVM: Suitability",
+          "pagina": 7,
+          "tipo": "guia",
+          "categoria": "perfil",
+          "data": "2022",
+          "chunk_id": "512_000394"
+        },
+        {
+          "arquivo": "04_CVM_Suitability_2022.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-suitability-lancamento/@@display-file/file",
+          "titulo": "Guia CVM: Suitability",
+          "pagina": 5,
+          "tipo": "guia",
+          "categoria": "perfil",
+          "data": "2022",
+          "chunk_id": "512_000380"
+        },
+        {
+          "arquivo": "05_CVM_Investidor_60_2026.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/investidor-60.pdf/@@display-file/file",
+          "titulo": "CVM: Investidor 60+",
+          "pagina": 1,
+          "tipo": "guia",
+          "categoria": "protecao",
+          "data": "2026",
+          "chunk_id": "512_000433"
+        }
+      ],
+      "contextos": [
+        "seguir um retorno mais alto em seus investimentos, ao passo que outros simples-\nmente buscam reduzir ao máximo sua exposição ao risco. Há, ainda, diferenças \nentre os investidores em relação ao conhecimento necessário para compreender \ntais riscos.  \nEssa diversidade de objetivos e perfis é relevante e precisa ser considerada no \nprocesso de tomada de decisão de investimentos, porque o mesmo produto, ser -\nviço ou estratégia não necessariamente será o mais indicado a qualquer investidor",
+        "33\n6 Suitability\nOs investidores são diferentes em termos de objetivos \ne perfil risco. Essa diversidade é relevante e precisa ser \nconsiderada no processo de tomada de decisão de in -\nvestimentos, porque o mesmo produto não necessaria-\nmente será o mais indicado a qualquer investidor em \nqualquer situação. É importante que o investimento \nseja o mais adequado ao objetivo e ao perfil de risco de \ncada investidor, pois uma escolha inadequada, além de \npotencialmente frustrar o alcance de um objetivo de",
+        "está ciente dos riscos daquele produto não adequado ao seu perfil e que, mesmo \nassim, deseja comandar tal operação. Essa formalidade visa a preservar o próprio \ninvestidor com relação a produtos não adequados ao seu perfil. Como se vê, a \nCVM não limita as possibilidades de aplicação por parte do investidor, desde que \nele confirme sua ciência do desenquadramento do ativo adquirido ao seu perfil \nmapeado pelo intermediário. \nSAIBA MAIS",
+        "6\n1. O que é Suitability? \nOs investidores são diferentes em termos de objetivos, situação financeira, perfil \nde risco e conhecimento. Enquanto uns investem para a aposentadoria, outros es-\ntão programando uma viagem, construindo a reserva para emergências ou plane-\njando a compra da casa própria. Determinado valor pode representar muito para \num investidor em relação ao seu patrimônio total, e pouco para outros. Alguns \ninvestidores são mais arrojados e aceitam tomar mais risco na expectativa de con-",
+        "INVESTIDOR 60+\nSua tranquilidade \nmerece proteção extra\nSE TIVER DÚVIDAS OU PRECISAR DE AJUDA\nPortal do Investidor\nwww.gov.br/investidor\nInvestir com\nsegurança é garantir\nseu bem-estar\nProteja seu patrimônio.\nInvista com segurança.\nFale com a CVM\n 0800-025-9666\n (dias úteis, das 8h às 20h)\nComo tomar decisões de investimento\nseguras e conscientes nesta fase da vida\nMaio | 2026"
+      ]
+    },
+    {
+      "chunk_size": 512,
+      "pergunta": "Segundo o material sobre day trade, como análise técnica e análise fundamentalista diferem?",
+      "resposta": "A diferença entre as duas análises reside no foco do estudo e no objetivo da previsão:\n\n*   **Análise Técnica:** Busca estudar os movimentos do mercado através da análise gráfica para tentar prever a variação de preços futuros de ativos na Bolsa de Valores em curto, médio e longo prazos [512_000015]. Ela baseia-se no preço do ativo e no equilíbrio entre a oferta e a demanda para prever o cenário mais provável para contratos futuros, opções ou ações, sendo utilizada em modalidades como *day trade*, *swing trade* ou *position trade* [512_000017].\n*   **Análise Fundamentalista:** Foca no estudo dos fundamentos da empresa, analisando seus aspectos econômicos e financeiros [512_000017]. Esta abordagem serve de base para operações como *value investing*, *growth investing* e *buy and hold* [512_000031].\n\n*Este conteúdo possui caráter educativo e não constitui recomendação de investimento.*",
+      "fontes": [
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 8,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000015"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 49,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000156"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 9,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000017"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 12,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000031"
+        },
+        {
+          "arquivo": "01_CVM_Day_Trade_2020.pdf",
+          "fonte": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/caderno-cvm-15-day_trade.pdf/@@display-file/file",
+          "titulo": "Caderno CVM 15: Day Trade",
+          "pagina": 38,
+          "tipo": "caderno",
+          "categoria": "negociacao",
+          "data": "2020",
+          "chunk_id": "512_000120"
+        }
+      ],
+      "contextos": [
+        "7.  Realizar o lucro ou prejuízo.\nAntes de iniciar a prática de day trading , recomenda-se \nmuito estudo sobre as teorias de análise técnica, assim \ncomo análise dos pontos fortes e fracos.\n1.1. Análise técnica X Análise fundamentalista\nA análise técnica busca estudar os movimentos do mer -\ncado por meio da análise gráfica e, assim, tentar prever a \nvariação de preços futuros dos ativos na Bolsa de Valores \nno curto, médio e longo prazos. A análise técnica acre -",
+        "de interesse pelo day trade veio junto com o crescimento \ndo número de pessoas físicas na bolsa, conforme pode ser \nvisto nos gráficos abaixo:",
+        "8\nPor estar baseada no preço do ativo, levando em conta \no equilíbrio entre a oferta e a demanda, a análise técnica \né usada para prever o cenário mais provável para uma \nação, opção ou contratos futuros, seja em day trade, swing \ntrade ou position trade. Estes dois últimos conceitos serão \nabordados no item 1.2.\nPor outro lado, a análise fundamentalista foca em estu -\ndar os aspectos financeiros e econômicos das empresas, \nou seja, os fundamentos da empresa através de um pro -",
+        "para efetuar a compra.\nEnquanto as operações de day trade, swing trade e position \ntrade têm caráter especulativo e usam a análise gráfica, as \noperações buy and hold, growth investing  e value investing  \nse baseiam nos fundamentos das empresas.",
+        "sistentes.\n6.2 Ações\nUm novo estudo sobre day trade foi publicado pelos \npesquisadores Fernando Chague e Bruno Giovanetti. Na \nverdade, trata-se de uma atualização em relação ao artigo \n“É possível viver de day trading?”, publicado em março \nde 2019. A atualização do estudo foi publicada na Revista \nBrasileira de Finanças, vol 18, Nº 3, de 2020, edição julho-\n-setembro.\nO foco desta nova pesquisa foi avaliar as pessoas que fi -\nzeram day trade no mercado à vista de ações brasileiro."
+      ]
+    }
+  ]
+}

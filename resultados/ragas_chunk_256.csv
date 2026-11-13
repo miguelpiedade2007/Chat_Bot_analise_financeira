@@ -1,0 +1,38 @@
+chunk_size,user_input,response,faithfulness,answer_relevancy
+256,Como o caderno da CVM define day trade e qual a principal diferença para swing trade?,"Com base nos documentos fornecidos:
+
+*   **Day trade:** É caracterizado por posições que duram apenas um dia, sendo considerado um curtíssimo prazo [256_000040].
+*   **Diferença para o swing trade:** A principal diferença reside no prazo [256_000040]. Enquanto o day trade ocorre em um único dia, o swing trade caracteriza-se por posições de curto e médio prazo, com intervalos de dias ou até semanas para a negociação de opções, contratos futuros ou ações [256_000041].
+
+*Este conteúdo é educativo e não constitui recomendação de investimento.*",0.875,0.8675198920485112
+256,O que é um BDR e como esse recibo se relaciona a valores mobiliários emitidos no exterior?,"Os BDRs (Brazilian Depositary Receipts), ou certificados de depósito de valores mobiliários, são valores mobiliários emitidos e negociados no Brasil que representam outro valor mobiliário negociado no exterior [256_000330].
+
+A relação entre o recibo e os ativos estrangeiros ocorre da seguinte forma:
+
+*   **Representação e Lastro:** O BDR representa um valor mobiliário negociado no exterior [256_000330], sendo emitido com base em valores mobiliários que ficam custodiados no exterior [256_000346].
+*   **Emissores:** No caso de programas de BDR nível I (patrocinados ou não), os emissores dos valores mobiliários que servem de lastro no exterior são fundos e empresas estrangeiras [256_000491].
+*   **Interesses do Titular:** Os direitos dos valores mobiliários que servem de lastro aos BDRs devem ser exercidos considerando os interesses de quem detém os BDRs [256_000462].",1.0,0.7695217338019139
+256,Qual é a finalidade do Mecanismo de Ressarcimento de Prejuízos (MRP) e quais situações a publicação aborda?,"O Mecanismo de Ressarcimento de Prejuízos (MRP) é um instrumento de indenização com a finalidade exclusiva de assegurar aos investidores o ressarcimento de prejuízos [256_000533], decorrentes de ações [256_000536]. Ele atua protegendo os investidores em situações específicas, seguindo procedimentos e regras estabelecidos [256_000530].
+
+Para que o MRP seja acionado, a publicação aborda a necessidade de preenchimento de requisitos de admissibilidade (ou de acesso), que são:
+*   A existência de prejuízo ao investidor [256_000544];
+*   Que tal prejuízo seja resultado de operação em bolsa [256_000544];
+*   Que o prejuízo decorra de omissão ou ação de prepostos, funcionários, administradores ou do participante [256_000544].",1.0,0.8701736453560683
+256,O que significa suitability e por que é importante verificar o perfil do investidor?,"O termo *suitability* refere-se ao processo de adequação do investimento ao perfil de cada investidor no mercado financeiro e de capitais [256_000711].
+
+A verificação do perfil do investidor é importante porque os investidores possuem diferenças em relação ao seu conhecimento, situação financeira, perfil de risco e objetivos [256_000704]. Como um serviço ou estratégia não será necessariamente o mais indicado para qualquer investidor em qualquer situação, é fundamental que o investimento seja o mais adequado ao objetivo e ao perfil de cada pessoa, visto que uma escolha inadequada pode trazer riscos [256_000708].
+
+Para que isso ocorra, a resposta ao questionário de avaliação de perfil de investimento deve estar alinhada aos objetivos do investidor [256_000790].",0.8333333333333334,0.9217660929802399
+256,Quais cuidados o guia Investidor 60+ recomenda ao avaliar riscos e produtos complexos?,"O guia Investidor 60+ recomenda os seguintes cuidados:
+
+*   **Produtos Complexos:** É necessária atenção redobrada com produtos que o investidor não consiga entender [256_000815], [256_000826].
+*   **Capacidade de Explicação:** Se o investidor não for capaz de explicar para outra pessoa no que está investindo, bem como as possibilidades de retorno e os riscos, o produto provavelmente não é adequado para ele ou não foi plenamente compreendido [256_000815], [256_000816], [256_000826], [256_000827].
+*   **Nível de Investimento:** Produtos que possuam risco elevado ou sejam mais complexos exigem um maior investimento do investidor [256_000816], [256_000827].
+
+*Este conteúdo tem caráter educativo e não constitui recomendação de investimento.*",0.8333333333333334,0.8728471830433054
+256,"Segundo o material sobre day trade, como análise técnica e análise fundamentalista diferem?","Com base nos documentos fornecidos, a diferença entre as duas análises é a seguinte:
+
+*   **Análise Fundamentalista:** Foca no estudo dos fundamentos da empresa, especificamente em seus aspectos econômicos e financeiros [256_000031].
+*   **Análise Técnica:** O material recomenda que, antes de iniciar a prática de *day trading* (operações onde as posições duram apenas um dia), o investidor realize muito estudo sobre as teorias de análise técnica, bem como a análise de seus pontos fracos e fortes [256_000027, 256_000040].
+
+Vale ressaltar que as operações de *swing trade* podem utilizar tanto a análise técnica quanto a fundamentalista [256_000043].",0.8333333333333334,0.7894755598388886

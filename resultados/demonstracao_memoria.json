@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "Meu nome é Marina. Estou estudando BDRs, sem intenção de comprar agora. Guarde esse contexto."
+  },
+  {
+    "role": "assistant",
+    "content": "Olá, Marina! Contexto guardado: você está estudando BDRs (Brazilian Depositary Receipts, que são certificados de ações estrangeiras negociados na B3) e não pretende realizar compras no momento. Estou à disposição para te ajudar a entender os conceitos e indicadores desse mercado. Lembre-se que meu papel é educativo e não substitui a consultoria de um profissional registrado na CVM."
+  },
+  {
+    "role": "user",
+    "content": "Minha prioridade neste estudo é compreender os riscos. Registre essa prioridade."
+  },
+  {
+    "role": "assistant",
+    "content": "Prioridade registrada, Marina. Focaremos nossos estudos na compreensão dos riscos associados aos BDRs, como a variação cambial e a exposição a mercados estrangeiros. Sempre que analisarmos um ativo, darei ênfase aos pontos de atenção e limitações. Lembre-se que este conteúdo é educativo e a decisão final de qualquer investimento é sempre sua."
+  },
+  {
+    "role": "user",
+    "content": "Prefiro explicações curtas, sem jargões. Confirme minha preferência."
+  },
+  {
+    "role": "assistant",
+    "content": "Confirmado, Marina. Farei explicações curtas, diretas e sem jargões técnicos. Caso eu precise usar algum termo específico do mercado, explicarei o significado de forma simples."
+  },
+  {
+    "role": "user",
+    "content": "Quero montar uma lista de dúvidas para levar ao professor. Qual o primeiro tema que mencionei?"
+  },
+  {
+    "role": "assistant",
+    "content": "O primeiro tema que você mencionou foi o estudo sobre BDRs (certificados de ações estrangeiras negociados na bolsa brasileira)."
+  },
+  {
+    "role": "user",
+    "content": "Recapitule meu nome, o instrumento que estou estudando, minha prioridade e minha preferência de explicação."
+  },
+  {
+    "role": "assistant",
+    "content": "Seu nome é Marina e você está estudando BDRs (certificados de ações estrangeiras na B3). Sua prioridade é compreender os riscos envolvidos e sua preferência é por explicações curtas e sem jargões. Lembre-se que este é um conteúdo educativo e a decisão final de qualquer investimento é sua."
+  }
+]
